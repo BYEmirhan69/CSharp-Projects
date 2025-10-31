@@ -1,0 +1,11 @@
+C:\Users\FETİ SANAÇ\Desktop\Spech to text\bin\Debug\SpeechToText.exe
+C:\Users\FETİ SANAÇ\Desktop\Spech to text\bin\Debug\SpeechToText.pdb
+C:\Users\FETİ SANAÇ\Desktop\Spech to text\obj\Debug\SpeechToText.csproj.AssemblyReference.cache
+C:\Users\FETİ SANAÇ\Desktop\Spech to text\obj\Debug\SpeechToText.csproj.CoreCompileInputs.cache
+C:\Users\FETİ SANAÇ\Desktop\Spech to text\obj\Debug\SpeechToText.exe
+C:\Users\FETİ SANAÇ\Desktop\Spech to text\obj\Debug\SpeechToText.pdb
+C:\Users\FETİ SANAÇ\Desktop\Spech to text\obj\Debug\SpeechToText.csprojAssemblyReference.cache
+C:\Users\Emirhan\Desktop\Spech to text\Spech to text\obj\Debug\SpeechToText.csproj.AssemblyReference.cache
+C:\Users\Emirhan\Desktop\Spech to text\Spech to text\obj\Debug\SpeechToText.csproj.CoreCompileInputs.cache
+C:\Users\Emirhan\Desktop\Spech to text\Spech to text\obj\Debug\SpeechToText.exe
+C:\Users\Emirhan\Desktop\Spech to text\Spech to text\obj\Debug\SpeechToText.pdb
