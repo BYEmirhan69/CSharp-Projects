@@ -1,0 +1,16 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net8.0-windows</TargetFramework>
+    <UseWindowsForms>true</UseWindowsForms>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Emgu.CV" Version="4.9.0.5092" />
+    <PackageReference Include="Emgu.CV.UI" Version="4.9.0.5092" />
+    <PackageReference Include="Emgu.CV.runtime.windows" Version="4.9.0.5092" />
+  </ItemGroup>
+</Project>
+

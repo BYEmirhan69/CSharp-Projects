@@ -1,0 +1,103 @@
+C:\Users\FETİ SANAÇ\Desktop\open cv\FaceApp\obj\Debug\net8.0-windows\FaceApp.csproj.AssemblyReference.cache
+C:\Users\FETİ SANAÇ\Desktop\open cv\FaceApp\obj\Debug\net8.0-windows\FaceApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\FETİ SANAÇ\Desktop\open cv\FaceApp\obj\Debug\net8.0-windows\FaceApp.AssemblyInfoInputs.cache
+C:\Users\FETİ SANAÇ\Desktop\open cv\FaceApp\obj\Debug\net8.0-windows\FaceApp.AssemblyInfo.cs
+C:\Users\FETİ SANAÇ\Desktop\open cv\FaceApp\obj\Debug\net8.0-windows\FaceApp.csproj.CoreCompileInputs.cache
+C:\Users\FETİ SANAÇ\Desktop\open cv\FaceApp\bin\Debug\net8.0-windows\FaceApp.exe
+C:\Users\FETİ SANAÇ\Desktop\open cv\FaceApp\bin\Debug\net8.0-windows\Emgu.CV.dll
+C:\Users\FETİ SANAÇ\Desktop\open cv\FaceApp\bin\Debug\net8.0-windows\Emgu.CV.Bitmap.dll
+C:\Users\FETİ SANAÇ\Desktop\open cv\FaceApp\bin\Debug\net8.0-windows\Emgu.CV.Platform.NetCore.dll
+C:\Users\FETİ SANAÇ\Desktop\open cv\FaceApp\bin\Debug\net8.0-windows\System.Drawing.Common.dll
+C:\Users\FETİ SANAÇ\Desktop\open cv\FaceApp\bin\Debug\net8.0-windows\runtimes\win-arm64\native\cvextern.dll
+C:\Users\FETİ SANAÇ\Desktop\open cv\FaceApp\bin\Debug\net8.0-windows\runtimes\win-x64\native\cvextern.dll
+C:\Users\FETİ SANAÇ\Desktop\open cv\FaceApp\bin\Debug\net8.0-windows\runtimes\win-x64\native\libusb-1.0.dll
+C:\Users\FETİ SANAÇ\Desktop\open cv\FaceApp\bin\Debug\net8.0-windows\runtimes\win-x64\native\opencv_videoio_ffmpeg490_64.dll
+C:\Users\FETİ SANAÇ\Desktop\open cv\FaceApp\bin\Debug\net8.0-windows\runtimes\win-x86\native\cvextern.dll
+C:\Users\FETİ SANAÇ\Desktop\open cv\FaceApp\bin\Debug\net8.0-windows\runtimes\win-x86\native\libusb-1.0.dll
+C:\Users\FETİ SANAÇ\Desktop\open cv\FaceApp\bin\Debug\net8.0-windows\runtimes\win-x86\native\opencv_videoio_ffmpeg490.dll
+C:\Users\FETİ SANAÇ\Desktop\open cv\FaceApp\bin\Debug\net8.0-windows\runtimes\win-arm64\native\concrt140.dll
+C:\Users\FETİ SANAÇ\Desktop\open cv\FaceApp\bin\Debug\net8.0-windows\runtimes\win-arm64\native\msvcp140.dll
+C:\Users\FETİ SANAÇ\Desktop\open cv\FaceApp\bin\Debug\net8.0-windows\runtimes\win-arm64\native\msvcp140_1.dll
+C:\Users\FETİ SANAÇ\Desktop\open cv\FaceApp\bin\Debug\net8.0-windows\runtimes\win-arm64\native\msvcp140_2.dll
+C:\Users\FETİ SANAÇ\Desktop\open cv\FaceApp\bin\Debug\net8.0-windows\runtimes\win-arm64\native\msvcp140_atomic_wait.dll
+C:\Users\FETİ SANAÇ\Desktop\open cv\FaceApp\bin\Debug\net8.0-windows\runtimes\win-arm64\native\msvcp140_codecvt_ids.dll
+C:\Users\FETİ SANAÇ\Desktop\open cv\FaceApp\bin\Debug\net8.0-windows\runtimes\win-arm64\native\vcruntime140.dll
+C:\Users\FETİ SANAÇ\Desktop\open cv\FaceApp\bin\Debug\net8.0-windows\runtimes\win-arm64\native\vcruntime140_1.dll
+C:\Users\FETİ SANAÇ\Desktop\open cv\FaceApp\bin\Debug\net8.0-windows\runtimes\win-x64\native\concrt140.dll
+C:\Users\FETİ SANAÇ\Desktop\open cv\FaceApp\bin\Debug\net8.0-windows\runtimes\win-x64\native\msvcp140.dll
+C:\Users\FETİ SANAÇ\Desktop\open cv\FaceApp\bin\Debug\net8.0-windows\runtimes\win-x64\native\msvcp140_1.dll
+C:\Users\FETİ SANAÇ\Desktop\open cv\FaceApp\bin\Debug\net8.0-windows\runtimes\win-x64\native\msvcp140_2.dll
+C:\Users\FETİ SANAÇ\Desktop\open cv\FaceApp\bin\Debug\net8.0-windows\runtimes\win-x64\native\msvcp140_atomic_wait.dll
+C:\Users\FETİ SANAÇ\Desktop\open cv\FaceApp\bin\Debug\net8.0-windows\runtimes\win-x64\native\msvcp140_codecvt_ids.dll
+C:\Users\FETİ SANAÇ\Desktop\open cv\FaceApp\bin\Debug\net8.0-windows\runtimes\win-x64\native\vcruntime140.dll
+C:\Users\FETİ SANAÇ\Desktop\open cv\FaceApp\bin\Debug\net8.0-windows\runtimes\win-x64\native\vcruntime140_1.dll
+C:\Users\FETİ SANAÇ\Desktop\open cv\FaceApp\bin\Debug\net8.0-windows\runtimes\win-x86\native\concrt140.dll
+C:\Users\FETİ SANAÇ\Desktop\open cv\FaceApp\bin\Debug\net8.0-windows\runtimes\win-x86\native\msvcp140.dll
+C:\Users\FETİ SANAÇ\Desktop\open cv\FaceApp\bin\Debug\net8.0-windows\runtimes\win-x86\native\msvcp140_1.dll
+C:\Users\FETİ SANAÇ\Desktop\open cv\FaceApp\bin\Debug\net8.0-windows\runtimes\win-x86\native\msvcp140_2.dll
+C:\Users\FETİ SANAÇ\Desktop\open cv\FaceApp\bin\Debug\net8.0-windows\runtimes\win-x86\native\msvcp140_atomic_wait.dll
+C:\Users\FETİ SANAÇ\Desktop\open cv\FaceApp\bin\Debug\net8.0-windows\runtimes\win-x86\native\msvcp140_codecvt_ids.dll
+C:\Users\FETİ SANAÇ\Desktop\open cv\FaceApp\bin\Debug\net8.0-windows\runtimes\win-x86\native\vcruntime140.dll
+C:\Users\FETİ SANAÇ\Desktop\open cv\FaceApp\obj\Debug\net8.0-windows\FaceApp.csproj.Up2Date
+C:\Users\FETİ SANAÇ\Desktop\open cv\FaceApp\obj\Debug\net8.0-windows\FaceApp.dll
+C:\Users\FETİ SANAÇ\Desktop\open cv\FaceApp\obj\Debug\net8.0-windows\refint\FaceApp.dll
+C:\Users\FETİ SANAÇ\Desktop\open cv\FaceApp\obj\Debug\net8.0-windows\FaceApp.pdb
+C:\Users\FETİ SANAÇ\Desktop\open cv\FaceApp\bin\Debug\net8.0-windows\FaceApp.deps.json
+C:\Users\FETİ SANAÇ\Desktop\open cv\FaceApp\bin\Debug\net8.0-windows\FaceApp.runtimeconfig.json
+C:\Users\FETİ SANAÇ\Desktop\open cv\FaceApp\bin\Debug\net8.0-windows\FaceApp.dll
+C:\Users\FETİ SANAÇ\Desktop\open cv\FaceApp\bin\Debug\net8.0-windows\FaceApp.pdb
+C:\Users\FETİ SANAÇ\Desktop\open cv\FaceApp\obj\Debug\net8.0-windows\FaceApp.genruntimeconfig.cache
+C:\Users\FETİ SANAÇ\Desktop\open cv\FaceApp\obj\Debug\net8.0-windows\ref\FaceApp.dll
+C:\open cv\FaceApp\bin\Debug\net8.0-windows\FaceApp.exe
+C:\open cv\FaceApp\bin\Debug\net8.0-windows\FaceApp.deps.json
+C:\open cv\FaceApp\bin\Debug\net8.0-windows\FaceApp.runtimeconfig.json
+C:\open cv\FaceApp\bin\Debug\net8.0-windows\FaceApp.dll
+C:\open cv\FaceApp\bin\Debug\net8.0-windows\FaceApp.pdb
+C:\open cv\FaceApp\bin\Debug\net8.0-windows\Emgu.CV.dll
+C:\open cv\FaceApp\bin\Debug\net8.0-windows\Emgu.CV.Bitmap.dll
+C:\open cv\FaceApp\bin\Debug\net8.0-windows\Emgu.CV.Platform.NetCore.dll
+C:\open cv\FaceApp\bin\Debug\net8.0-windows\System.Drawing.Common.dll
+C:\open cv\FaceApp\bin\Debug\net8.0-windows\runtimes\win-arm64\native\cvextern.dll
+C:\open cv\FaceApp\bin\Debug\net8.0-windows\runtimes\win-x64\native\cvextern.dll
+C:\open cv\FaceApp\bin\Debug\net8.0-windows\runtimes\win-x64\native\libusb-1.0.dll
+C:\open cv\FaceApp\bin\Debug\net8.0-windows\runtimes\win-x64\native\opencv_videoio_ffmpeg490_64.dll
+C:\open cv\FaceApp\bin\Debug\net8.0-windows\runtimes\win-x86\native\cvextern.dll
+C:\open cv\FaceApp\bin\Debug\net8.0-windows\runtimes\win-x86\native\libusb-1.0.dll
+C:\open cv\FaceApp\bin\Debug\net8.0-windows\runtimes\win-x86\native\opencv_videoio_ffmpeg490.dll
+C:\open cv\FaceApp\bin\Debug\net8.0-windows\runtimes\win-arm64\native\concrt140.dll
+C:\open cv\FaceApp\bin\Debug\net8.0-windows\runtimes\win-arm64\native\msvcp140.dll
+C:\open cv\FaceApp\bin\Debug\net8.0-windows\runtimes\win-arm64\native\msvcp140_1.dll
+C:\open cv\FaceApp\bin\Debug\net8.0-windows\runtimes\win-arm64\native\msvcp140_2.dll
+C:\open cv\FaceApp\bin\Debug\net8.0-windows\runtimes\win-arm64\native\msvcp140_atomic_wait.dll
+C:\open cv\FaceApp\bin\Debug\net8.0-windows\runtimes\win-arm64\native\msvcp140_codecvt_ids.dll
+C:\open cv\FaceApp\bin\Debug\net8.0-windows\runtimes\win-arm64\native\vcruntime140.dll
+C:\open cv\FaceApp\bin\Debug\net8.0-windows\runtimes\win-arm64\native\vcruntime140_1.dll
+C:\open cv\FaceApp\bin\Debug\net8.0-windows\runtimes\win-x64\native\concrt140.dll
+C:\open cv\FaceApp\bin\Debug\net8.0-windows\runtimes\win-x64\native\msvcp140.dll
+C:\open cv\FaceApp\bin\Debug\net8.0-windows\runtimes\win-x64\native\msvcp140_1.dll
+C:\open cv\FaceApp\bin\Debug\net8.0-windows\runtimes\win-x64\native\msvcp140_2.dll
+C:\open cv\FaceApp\bin\Debug\net8.0-windows\runtimes\win-x64\native\msvcp140_atomic_wait.dll
+C:\open cv\FaceApp\bin\Debug\net8.0-windows\runtimes\win-x64\native\msvcp140_codecvt_ids.dll
+C:\open cv\FaceApp\bin\Debug\net8.0-windows\runtimes\win-x64\native\vcruntime140.dll
+C:\open cv\FaceApp\bin\Debug\net8.0-windows\runtimes\win-x64\native\vcruntime140_1.dll
+C:\open cv\FaceApp\bin\Debug\net8.0-windows\runtimes\win-x86\native\concrt140.dll
+C:\open cv\FaceApp\bin\Debug\net8.0-windows\runtimes\win-x86\native\msvcp140.dll
+C:\open cv\FaceApp\bin\Debug\net8.0-windows\runtimes\win-x86\native\msvcp140_1.dll
+C:\open cv\FaceApp\bin\Debug\net8.0-windows\runtimes\win-x86\native\msvcp140_2.dll
+C:\open cv\FaceApp\bin\Debug\net8.0-windows\runtimes\win-x86\native\msvcp140_atomic_wait.dll
+C:\open cv\FaceApp\bin\Debug\net8.0-windows\runtimes\win-x86\native\msvcp140_codecvt_ids.dll
+C:\open cv\FaceApp\bin\Debug\net8.0-windows\runtimes\win-x86\native\vcruntime140.dll
+C:\open cv\FaceApp\obj\Debug\net8.0-windows\FaceApp.csproj.AssemblyReference.cache
+C:\open cv\FaceApp\obj\Debug\net8.0-windows\FaceApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\open cv\FaceApp\obj\Debug\net8.0-windows\FaceApp.AssemblyInfoInputs.cache
+C:\open cv\FaceApp\obj\Debug\net8.0-windows\FaceApp.AssemblyInfo.cs
+C:\open cv\FaceApp\obj\Debug\net8.0-windows\FaceApp.csproj.CoreCompileInputs.cache
+C:\open cv\FaceApp\obj\Debug\net8.0-windows\FaceApp.csproj.Up2Date
+C:\open cv\FaceApp\obj\Debug\net8.0-windows\FaceApp.dll
+C:\open cv\FaceApp\obj\Debug\net8.0-windows\refint\FaceApp.dll
+C:\open cv\FaceApp\obj\Debug\net8.0-windows\FaceApp.pdb
+C:\open cv\FaceApp\obj\Debug\net8.0-windows\FaceApp.genruntimeconfig.cache
+C:\open cv\FaceApp\obj\Debug\net8.0-windows\ref\FaceApp.dll
+C:\Users\Emirhan\Desktop\open cv\open cv\FaceApp\obj\Debug\net8.0-windows\FaceApp.dll
+C:\Users\Emirhan\Desktop\open cv\open cv\FaceApp\obj\Debug\net8.0-windows\refint\FaceApp.dll
+C:\Users\Emirhan\Desktop\open cv\open cv\FaceApp\obj\Debug\net8.0-windows\FaceApp.pdb
