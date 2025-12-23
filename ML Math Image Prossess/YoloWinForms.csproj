@@ -1,0 +1,27 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net8.0-windows</TargetFramework>
+    <Nullable>enable</Nullable>
+    <UseWindowsForms>true</UseWindowsForms>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <ApplicationIcon></ApplicationIcon>
+    <StartupObject>YoloWinForms.Program</StartupObject>
+    <NoWarn>NU1902;NU1903</NoWarn>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.ML.OnnxRuntime" Version="1.16.3" />
+    <PackageReference Include="SixLabors.ImageSharp" Version="3.1.7" />
+    <PackageReference Include="SixLabors.ImageSharp.Drawing" Version="2.1.5" />
+  </ItemGroup>
+
+  <!-- Model dosyasını output dizinine kopyala -->
+  <ItemGroup>
+    <None Update="yolov8n.onnx">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+  </ItemGroup>
+
+</Project>
