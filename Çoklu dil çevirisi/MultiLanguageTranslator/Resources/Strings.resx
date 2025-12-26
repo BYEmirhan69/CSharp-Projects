@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="0" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="FormTitle" xml:space="preserve">
+    <value>Çoklu Dil Çevirisi</value>
+    <comment>Ana form başlığı</comment>
+  </data>
+  <data name="UILanguage" xml:space="preserve">
+    <value>Arayüz Dili:</value>
+    <comment>UI dil seçimi etiketi</comment>
+  </data>
+  <data name="InputGroup" xml:space="preserve">
+    <value>Giriş</value>
+    <comment>Giriş alanı grup başlığı</comment>
+  </data>
+  <data name="OutputGroup" xml:space="preserve">
+    <value>Çeviri Sonuçları</value>
+    <comment>Çıkış alanı grup başlığı</comment>
+  </data>
+  <data name="SourceText" xml:space="preserve">
+    <value>Çevrilecek Metin:</value>
+    <comment>Kaynak metin etiketi</comment>
+  </data>
+  <data name="SourceLanguage" xml:space="preserve">
+    <value>Kaynak Dil:</value>
+    <comment>Kaynak dil etiketi</comment>
+  </data>
+  <data name="TargetLanguages" xml:space="preserve">
+    <value>Hedef Diller:</value>
+    <comment>Hedef diller etiketi</comment>
+  </data>
+  <data name="TranslateButton" xml:space="preserve">
+    <value>Çevir</value>
+    <comment>Çevir butonu metni</comment>
+  </data>
+  <data name="ErrorTitle" xml:space="preserve">
+    <value>Uyarı</value>
+    <comment>Hata mesaj kutusu başlığı</comment>
+  </data>
+  <data name="ErrorEmptyText" xml:space="preserve">
+    <value>Lütfen çevrilecek bir metin girin.</value>
+    <comment>Boş metin hata mesajı</comment>
+  </data>
+  <data name="ErrorNoTargetLanguage" xml:space="preserve">
+    <value>Lütfen en az bir hedef dil seçin.</value>
+    <comment>Hedef dil seçilmemiş hata mesajı</comment>
+  </data>
+  <data name="ErrorSameLanguage" xml:space="preserve">
+    <value>Kaynak dil ile hedef dil aynı olamaz.</value>
+    <comment>Aynı dil hata mesajı</comment>
+  </data>
+  <data name="ErrorTranslation" xml:space="preserve">
+    <value>Çeviri sırasında bir hata oluştu</value>
+    <comment>Çeviri hatası mesajı</comment>
+  </data>
+</root>
