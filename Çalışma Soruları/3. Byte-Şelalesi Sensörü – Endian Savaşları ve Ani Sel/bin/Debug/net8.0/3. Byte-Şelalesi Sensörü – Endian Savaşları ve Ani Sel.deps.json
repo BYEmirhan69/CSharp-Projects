@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "3.\u2003Byte-Şelalesi Sensörü – Endian Savaşları ve Ani Sel/1.0.0": {
+        "runtime": {
+          "3.\u2003Byte-Şelalesi Sensörü – Endian Savaşları ve Ani Sel.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "3.\u2003Byte-Şelalesi Sensörü – Endian Savaşları ve Ani Sel/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

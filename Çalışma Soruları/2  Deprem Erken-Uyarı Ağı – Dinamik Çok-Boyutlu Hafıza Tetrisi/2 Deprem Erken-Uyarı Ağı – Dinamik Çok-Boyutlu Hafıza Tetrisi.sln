@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36811.4 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2 Deprem Erken-Uyarı Ağı – Dinamik Çok-Boyutlu Hafıza Tetrisi", "2 Deprem Erken-Uyarı Ağı – Dinamik Çok-Boyutlu Hafıza Tetrisi.csproj", "{58C7D778-8084-4EED-90CD-93A3BD30859B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{58C7D778-8084-4EED-90CD-93A3BD30859B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{58C7D778-8084-4EED-90CD-93A3BD30859B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{58C7D778-8084-4EED-90CD-93A3BD30859B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{58C7D778-8084-4EED-90CD-93A3BD30859B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2BB71F75-6B2B-48BA-A7DE-6CDE65E8B8B4}
+	EndGlobalSection
+EndGlobal

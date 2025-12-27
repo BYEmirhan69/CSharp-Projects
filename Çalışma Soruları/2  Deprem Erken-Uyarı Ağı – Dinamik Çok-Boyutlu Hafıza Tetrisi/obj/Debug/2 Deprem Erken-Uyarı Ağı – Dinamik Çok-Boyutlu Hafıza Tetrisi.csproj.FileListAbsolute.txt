@@ -1,0 +1,7 @@
+C:\Users\Emirhan\Desktop\Çalışma Soruları\2 Deprem Erken-Uyarı Ağı – Dinamik Çok-Boyutlu Hafıza Tetrisi\bin\Debug\2 Deprem Erken-Uyarı Ağı – Dinamik Çok-Boyutlu Hafıza Tetrisi.exe.config
+C:\Users\Emirhan\Desktop\Çalışma Soruları\2 Deprem Erken-Uyarı Ağı – Dinamik Çok-Boyutlu Hafıza Tetrisi\bin\Debug\2 Deprem Erken-Uyarı Ağı – Dinamik Çok-Boyutlu Hafıza Tetrisi.exe
+C:\Users\Emirhan\Desktop\Çalışma Soruları\2 Deprem Erken-Uyarı Ağı – Dinamik Çok-Boyutlu Hafıza Tetrisi\bin\Debug\2 Deprem Erken-Uyarı Ağı – Dinamik Çok-Boyutlu Hafıza Tetrisi.pdb
+C:\Users\Emirhan\Desktop\Çalışma Soruları\2 Deprem Erken-Uyarı Ağı – Dinamik Çok-Boyutlu Hafıza Tetrisi\obj\Debug\2 Deprem Erken-Uyarı Ağı – Dinamik Çok-Boyutlu Hafıza Tetrisi.csproj.AssemblyReference.cache
+C:\Users\Emirhan\Desktop\Çalışma Soruları\2 Deprem Erken-Uyarı Ağı – Dinamik Çok-Boyutlu Hafıza Tetrisi\obj\Debug\2 Deprem Erken-Uyarı Ağı – Dinamik Çok-Boyutlu Hafıza Tetrisi.csproj.CoreCompileInputs.cache
+C:\Users\Emirhan\Desktop\Çalışma Soruları\2 Deprem Erken-Uyarı Ağı – Dinamik Çok-Boyutlu Hafıza Tetrisi\obj\Debug\2 Deprem Erken-Uyarı Ağı – Dinamik Çok-Boyutlu Hafıza Tetrisi.exe
+C:\Users\Emirhan\Desktop\Çalışma Soruları\2 Deprem Erken-Uyarı Ağı – Dinamik Çok-Boyutlu Hafıza Tetrisi\obj\Debug\2 Deprem Erken-Uyarı Ağı – Dinamik Çok-Boyutlu Hafıza Tetrisi.pdb

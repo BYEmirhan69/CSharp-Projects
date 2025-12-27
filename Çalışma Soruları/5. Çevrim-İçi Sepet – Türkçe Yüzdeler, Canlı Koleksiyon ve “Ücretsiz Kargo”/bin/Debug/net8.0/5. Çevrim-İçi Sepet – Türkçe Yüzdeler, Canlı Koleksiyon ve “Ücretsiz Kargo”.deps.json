@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "5.\u2003Çevrim-İçi Sepet – Türkçe Yüzdeler, Canlı Koleksiyon ve “Ücretsiz Kargo”/1.0.0": {
+        "runtime": {
+          "5.\u2003Çevrim-İçi Sepet – Türkçe Yüzdeler, Canlı Koleksiyon ve “Ücretsiz Kargo”.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "5.\u2003Çevrim-İçi Sepet – Türkçe Yüzdeler, Canlı Koleksiyon ve “Ücretsiz Kargo”/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

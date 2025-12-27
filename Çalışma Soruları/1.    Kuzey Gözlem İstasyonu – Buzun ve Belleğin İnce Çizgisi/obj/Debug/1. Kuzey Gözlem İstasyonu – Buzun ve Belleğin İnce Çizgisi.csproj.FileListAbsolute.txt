@@ -1,0 +1,8 @@
+C:\Users\Emirhan\Desktop\Çalışma Soruları\1. Kuzey Gözlem İstasyonu – Buzun ve Belleğin İnce Çizgisi\bin\Debug\_1.Kuzey_Gözlem_İstasyonu___Buzun_ve_Belleğin_İnce_Çizgisi.exe.config
+C:\Users\Emirhan\Desktop\Çalışma Soruları\1. Kuzey Gözlem İstasyonu – Buzun ve Belleğin İnce Çizgisi\bin\Debug\_1.Kuzey_Gözlem_İstasyonu___Buzun_ve_Belleğin_İnce_Çizgisi.exe
+C:\Users\Emirhan\Desktop\Çalışma Soruları\1. Kuzey Gözlem İstasyonu – Buzun ve Belleğin İnce Çizgisi\bin\Debug\_1.Kuzey_Gözlem_İstasyonu___Buzun_ve_Belleğin_İnce_Çizgisi.pdb
+C:\Users\Emirhan\Desktop\Çalışma Soruları\1. Kuzey Gözlem İstasyonu – Buzun ve Belleğin İnce Çizgisi\obj\Debug\1. Kuzey Gözlem İstasyonu – Buzun ve Belleğin İnce Çizgisi.csproj.AssemblyReference.cache
+C:\Users\Emirhan\Desktop\Çalışma Soruları\1. Kuzey Gözlem İstasyonu – Buzun ve Belleğin İnce Çizgisi\obj\Debug\1. Kuzey Gözlem İstasyonu – Buzun ve Belleğin İnce Çizgisi.csproj.CoreCompileInputs.cache
+C:\Users\Emirhan\Desktop\Çalışma Soruları\1. Kuzey Gözlem İstasyonu – Buzun ve Belleğin İnce Çizgisi\obj\Debug\_1.Kuzey_Gözlem_İstasyonu___Buzun_ve_Belleğin_İnce_Çizgisi.exe
+C:\Users\Emirhan\Desktop\Çalışma Soruları\1. Kuzey Gözlem İstasyonu – Buzun ve Belleğin İnce Çizgisi\obj\Debug\_1.Kuzey_Gözlem_İstasyonu___Buzun_ve_Belleğin_İnce_Çizgisi.pdb
+C:\Users\Emirhan\Desktop\Çalışma Soruları\1. Kuzey Gözlem İstasyonu – Buzun ve Belleğin İnce Çizgisi\obj\Debug\_1.Kuzey_Gözlem_İstasyonu___Buzun_ve_Belleğin_İnce_Çizgisi.exe.config

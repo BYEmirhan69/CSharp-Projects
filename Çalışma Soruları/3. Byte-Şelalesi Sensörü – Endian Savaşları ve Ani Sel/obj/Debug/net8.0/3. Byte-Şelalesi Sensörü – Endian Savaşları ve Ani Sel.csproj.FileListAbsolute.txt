@@ -1,0 +1,15 @@
+C:\Users\Emirhan\Desktop\Çalışma Soruları\3. Byte-Şelalesi Sensörü – Endian Savaşları ve Ani Sel\bin\Debug\net8.0\3. Byte-Şelalesi Sensörü – Endian Savaşları ve Ani Sel.exe
+C:\Users\Emirhan\Desktop\Çalışma Soruları\3. Byte-Şelalesi Sensörü – Endian Savaşları ve Ani Sel\bin\Debug\net8.0\3. Byte-Şelalesi Sensörü – Endian Savaşları ve Ani Sel.deps.json
+C:\Users\Emirhan\Desktop\Çalışma Soruları\3. Byte-Şelalesi Sensörü – Endian Savaşları ve Ani Sel\bin\Debug\net8.0\3. Byte-Şelalesi Sensörü – Endian Savaşları ve Ani Sel.runtimeconfig.json
+C:\Users\Emirhan\Desktop\Çalışma Soruları\3. Byte-Şelalesi Sensörü – Endian Savaşları ve Ani Sel\bin\Debug\net8.0\3. Byte-Şelalesi Sensörü – Endian Savaşları ve Ani Sel.dll
+C:\Users\Emirhan\Desktop\Çalışma Soruları\3. Byte-Şelalesi Sensörü – Endian Savaşları ve Ani Sel\bin\Debug\net8.0\3. Byte-Şelalesi Sensörü – Endian Savaşları ve Ani Sel.pdb
+C:\Users\Emirhan\Desktop\Çalışma Soruları\3. Byte-Şelalesi Sensörü – Endian Savaşları ve Ani Sel\obj\Debug\net8.0\3. Byte-Şelalesi Sensörü – Endian Savaşları ve Ani Sel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Emirhan\Desktop\Çalışma Soruları\3. Byte-Şelalesi Sensörü – Endian Savaşları ve Ani Sel\obj\Debug\net8.0\3. Byte-Şelalesi Sensörü – Endian Savaşları ve Ani Sel.AssemblyInfoInputs.cache
+C:\Users\Emirhan\Desktop\Çalışma Soruları\3. Byte-Şelalesi Sensörü – Endian Savaşları ve Ani Sel\obj\Debug\net8.0\3. Byte-Şelalesi Sensörü – Endian Savaşları ve Ani Sel.AssemblyInfo.cs
+C:\Users\Emirhan\Desktop\Çalışma Soruları\3. Byte-Şelalesi Sensörü – Endian Savaşları ve Ani Sel\obj\Debug\net8.0\3. Byte-Şelalesi Sensörü – Endian Savaşları ve Ani Sel.csproj.CoreCompileInputs.cache
+C:\Users\Emirhan\Desktop\Çalışma Soruları\3. Byte-Şelalesi Sensörü – Endian Savaşları ve Ani Sel\obj\Debug\net8.0\3. Byte-Şelalesi Sensörü – Endian Savaşları ve Ani Sel.sourcelink.json
+C:\Users\Emirhan\Desktop\Çalışma Soruları\3. Byte-Şelalesi Sensörü – Endian Savaşları ve Ani Sel\obj\Debug\net8.0\3. Byte-Şelalesi Sensörü – Endian Savaşları ve Ani Sel.dll
+C:\Users\Emirhan\Desktop\Çalışma Soruları\3. Byte-Şelalesi Sensörü – Endian Savaşları ve Ani Sel\obj\Debug\net8.0\refint\3. Byte-Şelalesi Sensörü – Endian Savaşları ve Ani Sel.dll
+C:\Users\Emirhan\Desktop\Çalışma Soruları\3. Byte-Şelalesi Sensörü – Endian Savaşları ve Ani Sel\obj\Debug\net8.0\3. Byte-Şelalesi Sensörü – Endian Savaşları ve Ani Sel.pdb
+C:\Users\Emirhan\Desktop\Çalışma Soruları\3. Byte-Şelalesi Sensörü – Endian Savaşları ve Ani Sel\obj\Debug\net8.0\3. Byte-Şelalesi Sensörü – Endian Savaşları ve Ani Sel.genruntimeconfig.cache
+C:\Users\Emirhan\Desktop\Çalışma Soruları\3. Byte-Şelalesi Sensörü – Endian Savaşları ve Ani Sel\obj\Debug\net8.0\ref\3. Byte-Şelalesi Sensörü – Endian Savaşları ve Ani Sel.dll
