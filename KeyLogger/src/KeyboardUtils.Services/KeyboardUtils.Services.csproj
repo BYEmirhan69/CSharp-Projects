@@ -1,0 +1,15 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0-windows</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+    <RootNamespace>KeyboardUtils.Services</RootNamespace>
+    <UseWindowsForms>true</UseWindowsForms>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\KeyboardUtils.Core\KeyboardUtils.Core.csproj" />
+  </ItemGroup>
+
+</Project>
