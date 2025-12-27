@@ -1,0 +1,22 @@
+[
+  {
+    "name": "EICAR-Test-File",
+    "sha256": "275a021bbfb6489e54d471899f7db9d1663fc695ec2fe2a2c4538aabf651fd0f",
+    "severity": "Malware"
+  },
+  {
+    "name": "TestMalware-Sample1",
+    "sha256": "a1b2c3d4e5f6789012345678901234567890abcdef1234567890abcdef123456",
+    "severity": "Malware"
+  },
+  {
+    "name": "TestPUP-Sample1",
+    "sha256": "b2c3d4e5f67890123456789012345678901abcdef01234567890abcdef1234567",
+    "severity": "PUP"
+  },
+  {
+    "name": "TestAdware-Sample1",
+    "sha256": "c3d4e5f6789012345678901234567890abcdef012345678901abcdef12345678",
+    "severity": "Adware"
+  }
+]
